@@ -1,0 +1,13 @@
+node_modules/
+.nuxt/
+.output/
+.data/
+.openai/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+sant-financas-*.json
+convert-controle.mjs
+export-backup.mjs

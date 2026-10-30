@@ -1,0 +1,2 @@
+export default defineNuxtConfig({ modules: ['@nuxt/ui'], ui: { fonts: false }, css: ['~/assets/css/main.css'], ssr: false, compatibilityDate: '2026-10-30', app: { head: { title: 'Meu Controle — suas finanças, com clareza', link: [{ rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }], htmlAttrs: { lang: 'pt-BR' }, meta: [{ name: 'viewport', content: 'width=device-width, initial-scale=1' }] } } })
+
